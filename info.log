@@ -402,3 +402,403 @@ Driver info: driver.version: unknown
 12/14/2021 06:38:33 INFO pizza1 ID "pizza1Pizza"
 12/14/2021 06:38:33 INFO pizza1##ID##"pizza1Pizza"
 12/14/2021 06:38:33 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 07:03:56 INFO ###validating of placing pizza order verification begins###
+12/14/2021 07:03:56 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 07:03:56 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 07:03:56 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 07:03:56 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 07:03:56 INFO Selecting option 5 from select dropdown Pizza1 with locator By.id: pizza1Pizza
+12/14/2021 07:03:57 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 07:03:57 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 07:03:57 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 07:03:57 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings1'] for the object Name pizza1Toppings1
+12/14/2021 07:03:57 INFO Selecting option Diced Mango from select dropdown Topping1 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings1']
+12/14/2021 07:03:57 INFO found the Object value as pizza1Toppings2   xpath     "//div[@id='pizza1']//select[@class='toppings2']" for pizza1Toppings2
+12/14/2021 07:03:57 INFO pizza1Toppings2 xpath "//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 07:03:57 INFO pizza1Toppings2##xpath##"//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 07:03:57 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings2'] for the object Name pizza1Toppings2
+12/14/2021 07:03:57 INFO Selecting option Extra cheese from select dropdown Topping2 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings2']
+12/14/2021 07:03:57 INFO found the Object value as pizza1Quantity    ID        "pizza1Qty" for pizza1Quantity
+12/14/2021 07:03:57 INFO pizza1Quantity ID "pizza1Qty"
+12/14/2021 07:03:57 INFO pizza1Quantity##ID##"pizza1Qty"
+12/14/2021 07:03:57 INFO Object found as By.id: pizza1Qty for the object Name pizza1Quantity
+12/14/2021 07:03:57 INFO Entering text  1 in unput text box Quantity Textbox with locator By.id: pizza1Qty
+12/14/2021 07:03:57 INFO found the Object value as pizza1Quantity    ID        "pizza1Qty" for pizza1Quantity
+12/14/2021 07:03:57 INFO pizza1Quantity ID "pizza1Qty"
+12/14/2021 07:03:57 INFO pizza1Quantity##ID##"pizza1Qty"
+12/14/2021 07:03:57 INFO Object found as By.id: pizza1Qty for the object Name pizza1Quantity
+12/14/2021 07:03:57 INFO Entering text  ?? in unput text box Quantity Textbox with locator By.id: pizza1Qty
+12/14/2021 07:03:57 INFO found the Object value as name              ID        "name" for name
+12/14/2021 07:03:57 INFO name ID "name"
+12/14/2021 07:03:57 INFO name##ID##"name"
+12/14/2021 07:03:57 INFO Object found as By.id: name for the object Name name
+12/14/2021 07:03:57 INFO Entering text  naga v agasthyaraju in unput text box Name Textbox with locator By.id: name
+12/14/2021 07:03:57 INFO found the Object value as email             ID        "email" for email
+12/14/2021 07:03:57 INFO email ID "email"
+12/14/2021 07:03:57 INFO email##ID##"email"
+12/14/2021 07:03:57 INFO Object found as By.id: email for the object Name email
+12/14/2021 07:03:57 INFO Entering text  aditya.anv@gmail.com in unput text box Email textbox with locator By.id: email
+12/14/2021 07:03:57 INFO found the Object value as phone             ID        "phone" for phone
+12/14/2021 07:03:57 INFO phone ID "phone"
+12/14/2021 07:03:57 INFO phone##ID##"phone"
+12/14/2021 07:03:57 INFO Object found as By.id: phone for the object Name phone
+12/14/2021 07:03:57 INFO Entering text  619 301 7336 in unput text box Phone Textbox with locator By.id: phone
+12/14/2021 07:03:58 INFO found the Object value as radioCreditCard   ID        "ccpayment" for radioCreditCard
+12/14/2021 07:03:58 INFO radioCreditCard ID "ccpayment"
+12/14/2021 07:03:58 INFO radioCreditCard##ID##"ccpayment"
+12/14/2021 07:03:58 INFO Object found as By.id: ccpayment for the object Name radioCreditCard
+12/14/2021 07:03:58 INFO Checking the Credit Card Paymentwith locator By.id: ccpayment as true
+12/14/2021 07:03:58 INFO found the Object value as placeOrderButton  ID        "placeOrder" for placeOrderButton
+12/14/2021 07:03:58 INFO placeOrderButton ID "placeOrder"
+12/14/2021 07:03:58 INFO placeOrderButton##ID##"placeOrder"
+12/14/2021 07:03:58 INFO Object found as By.id: placeOrder for the object Name placeOrderButton
+12/14/2021 07:03:58 INFO Clicking on element Place Order Button with locator By.id: placeOrder
+12/14/2021 07:03:58 INFO found the Object value as dialog            ID        "dialog" for dialog
+12/14/2021 07:03:58 INFO dialog ID "dialog"
+12/14/2021 07:03:58 INFO dialog##ID##"dialog"
+12/14/2021 07:03:58 INFO Object found as By.id: dialog for the object Name dialog
+12/14/2021 07:03:58 INFO found the Object value as dialogText        xpath     "//div[@id='dialog']/p")           for dialogText
+12/14/2021 07:03:58 INFO dialogText xpath "//div[@id='dialog']/p") 
+12/14/2021 07:03:58 INFO dialogText##xpath##"//div[@id='dialog']/p")
+12/14/2021 07:03:58 INFO Object found as By.xpath: //div[@id='dialog']/p) for the object Name dialogText
+12/14/2021 07:03:58 INFO Getting text fromDialog Text with locator By.xpath: //div[@id='dialog']/p)
+12/14/2021 07:04:28 INFO error occured while Getting text fromDialog Text with locator By.xpath: //div[@id='dialog']/p) due to Expected condition failed: waiting for visibility of element located by By.xpath: //div[@id='dialog']/p) (tried for 30 second(s) with 500 milliseconds interval)
+12/14/2021 07:04:28 ERROR error occured while validating the placing of pizza order
+12/14/2021 07:04:28 INFO ###validating of placing pizza order verification ends###
+12/14/2021 07:05:43 INFO ###validating of placing pizza order verification begins###
+12/14/2021 07:05:43 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 07:05:43 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 07:05:43 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 07:05:43 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 07:05:43 INFO Selecting option 5 from select dropdown Pizza1 with locator By.id: pizza1Pizza
+12/14/2021 07:05:43 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 07:05:43 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 07:05:43 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 07:05:43 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings1'] for the object Name pizza1Toppings1
+12/14/2021 07:05:43 INFO Selecting option Diced Mango from select dropdown Topping1 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings1']
+12/14/2021 07:05:44 INFO found the Object value as pizza1Toppings2   xpath     "//div[@id='pizza1']//select[@class='toppings2']" for pizza1Toppings2
+12/14/2021 07:05:44 INFO pizza1Toppings2 xpath "//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 07:05:44 INFO pizza1Toppings2##xpath##"//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 07:05:44 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings2'] for the object Name pizza1Toppings2
+12/14/2021 07:05:44 INFO Selecting option Extra cheese from select dropdown Topping2 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings2']
+12/14/2021 07:05:44 INFO found the Object value as pizza1Quantity    ID        "pizza1Qty" for pizza1Quantity
+12/14/2021 07:05:44 INFO pizza1Quantity ID "pizza1Qty"
+12/14/2021 07:05:44 INFO pizza1Quantity##ID##"pizza1Qty"
+12/14/2021 07:05:44 INFO Object found as By.id: pizza1Qty for the object Name pizza1Quantity
+12/14/2021 07:05:44 INFO Entering text  1 in unput text box Quantity Textbox with locator By.id: pizza1Qty
+12/14/2021 07:05:44 INFO found the Object value as pizza1Quantity    ID        "pizza1Qty" for pizza1Quantity
+12/14/2021 07:05:44 INFO pizza1Quantity ID "pizza1Qty"
+12/14/2021 07:05:44 INFO pizza1Quantity##ID##"pizza1Qty"
+12/14/2021 07:05:44 INFO Object found as By.id: pizza1Qty for the object Name pizza1Quantity
+12/14/2021 07:05:44 INFO Entering text  ?? in unput text box Quantity Textbox with locator By.id: pizza1Qty
+12/14/2021 07:05:44 INFO found the Object value as name              ID        "name" for name
+12/14/2021 07:05:44 INFO name ID "name"
+12/14/2021 07:05:44 INFO name##ID##"name"
+12/14/2021 07:05:44 INFO Object found as By.id: name for the object Name name
+12/14/2021 07:05:44 INFO Entering text  naga v agasthyaraju in unput text box Name Textbox with locator By.id: name
+12/14/2021 07:05:44 INFO found the Object value as email             ID        "email" for email
+12/14/2021 07:05:44 INFO email ID "email"
+12/14/2021 07:05:44 INFO email##ID##"email"
+12/14/2021 07:05:44 INFO Object found as By.id: email for the object Name email
+12/14/2021 07:05:44 INFO Entering text  aditya.anv@gmail.com in unput text box Email textbox with locator By.id: email
+12/14/2021 07:05:45 INFO found the Object value as phone             ID        "phone" for phone
+12/14/2021 07:05:45 INFO phone ID "phone"
+12/14/2021 07:05:45 INFO phone##ID##"phone"
+12/14/2021 07:05:45 INFO Object found as By.id: phone for the object Name phone
+12/14/2021 07:05:45 INFO Entering text  619 301 7336 in unput text box Phone Textbox with locator By.id: phone
+12/14/2021 07:05:45 INFO found the Object value as radioCreditCard   ID        "ccpayment" for radioCreditCard
+12/14/2021 07:05:45 INFO radioCreditCard ID "ccpayment"
+12/14/2021 07:05:45 INFO radioCreditCard##ID##"ccpayment"
+12/14/2021 07:05:45 INFO Object found as By.id: ccpayment for the object Name radioCreditCard
+12/14/2021 07:05:45 INFO Checking the Credit Card Paymentwith locator By.id: ccpayment as true
+12/14/2021 07:05:45 INFO found the Object value as placeOrderButton  ID        "placeOrder" for placeOrderButton
+12/14/2021 07:05:45 INFO placeOrderButton ID "placeOrder"
+12/14/2021 07:05:45 INFO placeOrderButton##ID##"placeOrder"
+12/14/2021 07:05:45 INFO Object found as By.id: placeOrder for the object Name placeOrderButton
+12/14/2021 07:05:45 INFO Clicking on element Place Order Button with locator By.id: placeOrder
+12/14/2021 07:05:45 INFO found the Object value as dialogText        xpath     "//div[@id='dialog']/p")           for dialogText
+12/14/2021 07:05:45 INFO dialogText xpath "//div[@id='dialog']/p") 
+12/14/2021 07:05:45 INFO dialogText##xpath##"//div[@id='dialog']/p")
+12/14/2021 07:05:45 INFO Object found as By.xpath: //div[@id='dialog']/p) for the object Name dialogText
+12/14/2021 07:05:45 INFO Getting text fromDialog Text with locator By.xpath: //div[@id='dialog']/p)
+12/14/2021 07:06:01 INFO ###validating of placing pizza order verification begins###
+12/14/2021 07:06:01 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 07:06:01 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 07:06:01 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 07:06:01 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 07:06:01 INFO Selecting option 5 from select dropdown Pizza1 with locator By.id: pizza1Pizza
+12/14/2021 07:06:01 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 07:06:01 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 07:06:01 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 07:06:01 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings1'] for the object Name pizza1Toppings1
+12/14/2021 07:06:01 INFO Selecting option Diced Mango from select dropdown Topping1 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings1']
+12/14/2021 07:06:01 INFO found the Object value as pizza1Toppings2   xpath     "//div[@id='pizza1']//select[@class='toppings2']" for pizza1Toppings2
+12/14/2021 07:06:01 INFO pizza1Toppings2 xpath "//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 07:06:01 INFO pizza1Toppings2##xpath##"//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 07:06:01 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings2'] for the object Name pizza1Toppings2
+12/14/2021 07:06:01 INFO Selecting option Extra cheese from select dropdown Topping2 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings2']
+12/14/2021 07:06:02 INFO found the Object value as pizza1Quantity    ID        "pizza1Qty" for pizza1Quantity
+12/14/2021 07:06:02 INFO pizza1Quantity ID "pizza1Qty"
+12/14/2021 07:06:02 INFO pizza1Quantity##ID##"pizza1Qty"
+12/14/2021 07:06:02 INFO Object found as By.id: pizza1Qty for the object Name pizza1Quantity
+12/14/2021 07:06:02 INFO Entering text  1 in unput text box Quantity Textbox with locator By.id: pizza1Qty
+12/14/2021 07:06:02 INFO found the Object value as pizza1Quantity    ID        "pizza1Qty" for pizza1Quantity
+12/14/2021 07:06:02 INFO pizza1Quantity ID "pizza1Qty"
+12/14/2021 07:06:02 INFO pizza1Quantity##ID##"pizza1Qty"
+12/14/2021 07:06:02 INFO Object found as By.id: pizza1Qty for the object Name pizza1Quantity
+12/14/2021 07:06:02 INFO Entering text  ?? in unput text box Quantity Textbox with locator By.id: pizza1Qty
+12/14/2021 07:06:02 INFO found the Object value as name              ID        "name" for name
+12/14/2021 07:06:02 INFO name ID "name"
+12/14/2021 07:06:02 INFO name##ID##"name"
+12/14/2021 07:06:02 INFO Object found as By.id: name for the object Name name
+12/14/2021 07:06:02 INFO Entering text  naga v agasthyaraju in unput text box Name Textbox with locator By.id: name
+12/14/2021 07:06:02 INFO found the Object value as email             ID        "email" for email
+12/14/2021 07:06:02 INFO email ID "email"
+12/14/2021 07:06:02 INFO email##ID##"email"
+12/14/2021 07:06:02 INFO Object found as By.id: email for the object Name email
+12/14/2021 07:06:02 INFO Entering text  aditya.anv@gmail.com in unput text box Email textbox with locator By.id: email
+12/14/2021 07:06:02 INFO found the Object value as phone             ID        "phone" for phone
+12/14/2021 07:06:02 INFO phone ID "phone"
+12/14/2021 07:06:02 INFO phone##ID##"phone"
+12/14/2021 07:06:02 INFO Object found as By.id: phone for the object Name phone
+12/14/2021 07:06:02 INFO Entering text  619 301 7336 in unput text box Phone Textbox with locator By.id: phone
+12/14/2021 07:06:02 INFO found the Object value as radioCreditCard   ID        "ccpayment" for radioCreditCard
+12/14/2021 07:06:02 INFO radioCreditCard ID "ccpayment"
+12/14/2021 07:06:02 INFO radioCreditCard##ID##"ccpayment"
+12/14/2021 07:06:02 INFO Object found as By.id: ccpayment for the object Name radioCreditCard
+12/14/2021 07:06:02 INFO Checking the Credit Card Paymentwith locator By.id: ccpayment as true
+12/14/2021 07:06:02 INFO found the Object value as placeOrderButton  ID        "placeOrder" for placeOrderButton
+12/14/2021 07:06:02 INFO placeOrderButton ID "placeOrder"
+12/14/2021 07:06:02 INFO placeOrderButton##ID##"placeOrder"
+12/14/2021 07:06:02 INFO Object found as By.id: placeOrder for the object Name placeOrderButton
+12/14/2021 07:06:02 INFO Clicking on element Place Order Button with locator By.id: placeOrder
+12/14/2021 07:06:03 INFO found the Object value as dialogText        xpath     "//div[@id='dialog']/p"           for dialogText
+12/14/2021 07:06:03 INFO dialogText xpath "//div[@id='dialog']/p" 
+12/14/2021 07:06:03 INFO dialogText##xpath##"//div[@id='dialog']/p"
+12/14/2021 07:06:03 INFO Object found as By.xpath: //div[@id='dialog']/p for the object Name dialogText
+12/14/2021 07:06:03 INFO Getting text fromDialog Text with locator By.xpath: //div[@id='dialog']/p
+12/14/2021 07:06:03 INFO text Thank you for your order! TOTAL: 13.5 Large 10 Slices - 2 toppings get retrived from By.xpath: //div[@id='dialog']/p
+12/14/2021 07:06:03 INFO ###validating of placing pizza order verification ends###
+12/14/2021 07:07:24 INFO ###validating of placing pizza order verification begins###
+12/14/2021 07:07:24 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 07:07:24 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 07:07:24 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 07:07:24 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 07:07:24 INFO Selecting option 5 from select dropdown Pizza1 with locator By.id: pizza1Pizza
+12/14/2021 07:07:24 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 07:07:24 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 07:07:24 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 07:07:24 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings1'] for the object Name pizza1Toppings1
+12/14/2021 07:07:24 INFO Selecting option Diced Mango from select dropdown Topping1 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings1']
+12/14/2021 07:07:25 INFO found the Object value as pizza1Toppings2   xpath     "//div[@id='pizza1']//select[@class='toppings2']" for pizza1Toppings2
+12/14/2021 07:07:25 INFO pizza1Toppings2 xpath "//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 07:07:25 INFO pizza1Toppings2##xpath##"//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 07:07:25 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings2'] for the object Name pizza1Toppings2
+12/14/2021 07:07:25 INFO Selecting option Extra cheese from select dropdown Topping2 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings2']
+12/14/2021 07:07:25 INFO found the Object value as pizza1Quantity    ID        "pizza1Qty" for pizza1Quantity
+12/14/2021 07:07:25 INFO pizza1Quantity ID "pizza1Qty"
+12/14/2021 07:07:25 INFO pizza1Quantity##ID##"pizza1Qty"
+12/14/2021 07:07:25 INFO Object found as By.id: pizza1Qty for the object Name pizza1Quantity
+12/14/2021 07:07:25 INFO Entering text  1 in unput text box Quantity Textbox with locator By.id: pizza1Qty
+12/14/2021 07:07:25 INFO found the Object value as pizza1Quantity    ID        "pizza1Qty" for pizza1Quantity
+12/14/2021 07:07:25 INFO pizza1Quantity ID "pizza1Qty"
+12/14/2021 07:07:25 INFO pizza1Quantity##ID##"pizza1Qty"
+12/14/2021 07:07:25 INFO Object found as By.id: pizza1Qty for the object Name pizza1Quantity
+12/14/2021 07:07:25 INFO Entering text  ?? in unput text box Quantity Textbox with locator By.id: pizza1Qty
+12/14/2021 07:07:25 INFO found the Object value as name              ID        "name" for name
+12/14/2021 07:07:25 INFO name ID "name"
+12/14/2021 07:07:25 INFO name##ID##"name"
+12/14/2021 07:07:25 INFO Object found as By.id: name for the object Name name
+12/14/2021 07:07:25 INFO Entering text  naga v agasthyaraju in unput text box Name Textbox with locator By.id: name
+12/14/2021 07:07:25 INFO found the Object value as email             ID        "email" for email
+12/14/2021 07:07:25 INFO email ID "email"
+12/14/2021 07:07:25 INFO email##ID##"email"
+12/14/2021 07:07:25 INFO Object found as By.id: email for the object Name email
+12/14/2021 07:07:25 INFO Entering text  aditya.anv@gmail.com in unput text box Email textbox with locator By.id: email
+12/14/2021 07:07:25 INFO found the Object value as phone             ID        "phone" for phone
+12/14/2021 07:07:25 INFO phone ID "phone"
+12/14/2021 07:07:25 INFO phone##ID##"phone"
+12/14/2021 07:07:25 INFO Object found as By.id: phone for the object Name phone
+12/14/2021 07:07:25 INFO Entering text  619 301 7336 in unput text box Phone Textbox with locator By.id: phone
+12/14/2021 07:07:25 INFO found the Object value as radioCreditCard   ID        "ccpayment" for radioCreditCard
+12/14/2021 07:07:25 INFO radioCreditCard ID "ccpayment"
+12/14/2021 07:07:25 INFO radioCreditCard##ID##"ccpayment"
+12/14/2021 07:07:25 INFO Object found as By.id: ccpayment for the object Name radioCreditCard
+12/14/2021 07:07:25 INFO Checking the Credit Card Paymentwith locator By.id: ccpayment as true
+12/14/2021 07:07:26 INFO found the Object value as placeOrderButton  ID        "placeOrder" for placeOrderButton
+12/14/2021 07:07:26 INFO placeOrderButton ID "placeOrder"
+12/14/2021 07:07:26 INFO placeOrderButton##ID##"placeOrder"
+12/14/2021 07:07:26 INFO Object found as By.id: placeOrder for the object Name placeOrderButton
+12/14/2021 07:07:26 INFO Clicking on element Place Order Button with locator By.id: placeOrder
+12/14/2021 07:07:26 INFO found the Object value as dialog            ID        "dialog" for dialog
+12/14/2021 07:07:26 INFO dialog ID "dialog"
+12/14/2021 07:07:26 INFO dialog##ID##"dialog"
+12/14/2021 07:07:26 INFO Object found as By.id: dialog for the object Name dialog
+12/14/2021 07:07:26 INFO found the Object value as dialogText        xpath     "//div[@id='dialog']/p"           for dialogText
+12/14/2021 07:07:26 INFO dialogText xpath "//div[@id='dialog']/p" 
+12/14/2021 07:07:26 INFO dialogText##xpath##"//div[@id='dialog']/p"
+12/14/2021 07:07:26 INFO Object found as By.xpath: //div[@id='dialog']/p for the object Name dialogText
+12/14/2021 07:07:26 INFO Getting text fromDialog Text with locator By.xpath: //div[@id='dialog']/p
+12/14/2021 07:07:26 INFO text Thank you for your order! TOTAL: 13.5 Large 10 Slices - 2 toppings get retrived from By.xpath: //div[@id='dialog']/p
+12/14/2021 07:07:26 INFO ###validating of placing pizza order verification ends###
+12/14/2021 07:13:21 INFO ###validating of placing pizza order verification begins###
+12/14/2021 07:13:21 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 07:13:21 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 07:13:21 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 07:13:21 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 07:13:21 INFO Selecting option 5 from select dropdown Pizza1 with locator By.id: pizza1Pizza
+12/14/2021 07:13:21 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 07:13:21 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 07:13:21 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 07:13:21 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings1'] for the object Name pizza1Toppings1
+12/14/2021 07:13:21 INFO Selecting option Diced Mango from select dropdown Topping1 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings1']
+12/14/2021 07:13:21 INFO found the Object value as pizza1Toppings2   xpath     "//div[@id='pizza1']//select[@class='toppings2']" for pizza1Toppings2
+12/14/2021 07:13:21 INFO pizza1Toppings2 xpath "//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 07:13:21 INFO pizza1Toppings2##xpath##"//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 07:13:21 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings2'] for the object Name pizza1Toppings2
+12/14/2021 07:13:21 INFO Selecting option Extra cheese from select dropdown Topping2 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings2']
+12/14/2021 07:13:22 INFO found the Object value as pizza1Quantity    ID        "pizza1Qty" for pizza1Quantity
+12/14/2021 07:13:22 INFO pizza1Quantity ID "pizza1Qty"
+12/14/2021 07:13:22 INFO pizza1Quantity##ID##"pizza1Qty"
+12/14/2021 07:13:22 INFO Object found as By.id: pizza1Qty for the object Name pizza1Quantity
+12/14/2021 07:13:22 INFO Entering text  1 in unput text box Quantity Textbox with locator By.id: pizza1Qty
+12/14/2021 07:13:22 INFO found the Object value as pizza1Quantity    ID        "pizza1Qty" for pizza1Quantity
+12/14/2021 07:13:22 INFO pizza1Quantity ID "pizza1Qty"
+12/14/2021 07:13:22 INFO pizza1Quantity##ID##"pizza1Qty"
+12/14/2021 07:13:22 INFO Object found as By.id: pizza1Qty for the object Name pizza1Quantity
+12/14/2021 07:13:22 INFO Entering text  ?? in unput text box Quantity Textbox with locator By.id: pizza1Qty
+12/14/2021 07:13:22 INFO found the Object value as name              ID        "name" for name
+12/14/2021 07:13:22 INFO name ID "name"
+12/14/2021 07:13:22 INFO name##ID##"name"
+12/14/2021 07:13:22 INFO Object found as By.id: name for the object Name name
+12/14/2021 07:13:22 INFO Entering text  naga v agasthyaraju in unput text box Name Textbox with locator By.id: name
+12/14/2021 07:13:22 INFO found the Object value as email             ID        "email" for email
+12/14/2021 07:13:22 INFO email ID "email"
+12/14/2021 07:13:22 INFO email##ID##"email"
+12/14/2021 07:13:22 INFO Object found as By.id: email for the object Name email
+12/14/2021 07:13:22 INFO Entering text  aditya.anv@gmail.com in unput text box Email textbox with locator By.id: email
+12/14/2021 07:13:22 INFO found the Object value as phone             ID        "phone" for phone
+12/14/2021 07:13:22 INFO phone ID "phone"
+12/14/2021 07:13:22 INFO phone##ID##"phone"
+12/14/2021 07:13:22 INFO Object found as By.id: phone for the object Name phone
+12/14/2021 07:13:22 INFO Entering text  619 301 7336 in unput text box Phone Textbox with locator By.id: phone
+12/14/2021 07:13:22 INFO found the Object value as radioCreditCard   ID        "ccpayment" for radioCreditCard
+12/14/2021 07:13:22 INFO radioCreditCard ID "ccpayment"
+12/14/2021 07:13:22 INFO radioCreditCard##ID##"ccpayment"
+12/14/2021 07:13:22 INFO Object found as By.id: ccpayment for the object Name radioCreditCard
+12/14/2021 07:13:22 INFO Checking the Credit Card Paymentwith locator By.id: ccpayment as true
+12/14/2021 07:13:22 INFO found the Object value as placeOrderButton  ID        "placeOrder" for placeOrderButton
+12/14/2021 07:13:22 INFO placeOrderButton ID "placeOrder"
+12/14/2021 07:13:22 INFO placeOrderButton##ID##"placeOrder"
+12/14/2021 07:13:22 INFO Object found as By.id: placeOrder for the object Name placeOrderButton
+12/14/2021 07:13:22 INFO Clicking on element Place Order Button with locator By.id: placeOrder
+12/14/2021 07:13:23 INFO found the Object value as dialog            ID        "dialog" for dialog
+12/14/2021 07:13:23 INFO dialog ID "dialog"
+12/14/2021 07:13:23 INFO dialog##ID##"dialog"
+12/14/2021 07:13:23 INFO Object found as By.id: dialog for the object Name dialog
+12/14/2021 07:13:23 INFO found the Object value as dialogText        xpath     "//div[@id='dialog']/p"           for dialogText
+12/14/2021 07:13:23 INFO dialogText xpath "//div[@id='dialog']/p" 
+12/14/2021 07:13:23 INFO dialogText##xpath##"//div[@id='dialog']/p"
+12/14/2021 07:13:23 INFO Object found as By.xpath: //div[@id='dialog']/p for the object Name dialogText
+12/14/2021 07:13:23 INFO Getting text fromDialog Text with locator By.xpath: //div[@id='dialog']/p
+12/14/2021 07:13:23 INFO text Thank you for your order! TOTAL: 13.5 Large 10 Slices - 2 toppings get retrived from By.xpath: //div[@id='dialog']/p
+12/14/2021 07:13:23 INFO ###validating of placing pizza order verification ends###
+12/14/2021 07:13:37 INFO ###validating of error message on without providing details for pickup informations begins###
+12/14/2021 07:13:37 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 07:13:37 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 07:13:37 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 07:13:37 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 07:13:37 INFO Selecting option 4 from select dropdown Pizza1 with locator By.id: pizza1Pizza
+12/14/2021 07:13:38 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 07:13:38 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 07:13:38 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 07:13:38 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings1'] for the object Name pizza1Toppings1
+12/14/2021 07:13:38 INFO Selecting option Diced Mango from select dropdown Topping1 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings1']
+12/14/2021 07:13:38 INFO found the Object value as pizza1Toppings2   xpath     "//div[@id='pizza1']//select[@class='toppings2']" for pizza1Toppings2
+12/14/2021 07:13:38 INFO pizza1Toppings2 xpath "//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 07:13:38 INFO pizza1Toppings2##xpath##"//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 07:13:38 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings2'] for the object Name pizza1Toppings2
+12/14/2021 07:13:38 INFO Selecting option Extra cheese from select dropdown Topping2 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings2']
+12/14/2021 07:13:38 INFO found the Object value as placeOrderButton  ID        "placeOrder" for placeOrderButton
+12/14/2021 07:13:38 INFO placeOrderButton ID "placeOrder"
+12/14/2021 07:13:38 INFO placeOrderButton##ID##"placeOrder"
+12/14/2021 07:13:38 INFO Object found as By.id: placeOrder for the object Name placeOrderButton
+12/14/2021 07:13:38 INFO Clicking on element Place Order Button with locator By.id: placeOrder
+12/14/2021 07:13:38 INFO found the Object value as dialog            ID        "dialog" for dialog
+12/14/2021 07:13:38 INFO dialog ID "dialog"
+12/14/2021 07:13:38 INFO dialog##ID##"dialog"
+12/14/2021 07:13:38 INFO Object found as By.id: dialog for the object Name dialog
+12/14/2021 07:13:38 INFO found the Object value as dialogText        xpath     "//div[@id='dialog']/p"           for dialogText
+12/14/2021 07:13:38 INFO dialogText xpath "//div[@id='dialog']/p" 
+12/14/2021 07:13:38 INFO dialogText##xpath##"//div[@id='dialog']/p"
+12/14/2021 07:13:38 INFO Object found as By.xpath: //div[@id='dialog']/p for the object Name dialogText
+12/14/2021 07:13:38 INFO Getting text fromDialog Text with locator By.xpath: //div[@id='dialog']/p
+12/14/2021 07:13:38 INFO text Missing name
+Missing phone number get retrived from By.xpath: //div[@id='dialog']/p
+12/14/2021 07:13:38 INFO ###validating of error message on without providing details for pickup informations ends###
+12/14/2021 07:14:26 INFO ###validating of error message on without providing details for pickup informations begins###
+12/14/2021 07:14:26 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 07:14:26 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 07:14:26 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 07:14:26 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 07:14:26 INFO Selecting option 4 from select dropdown Pizza1 with locator By.id: pizza1Pizza
+12/14/2021 07:14:26 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 07:14:26 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 07:14:26 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 07:14:26 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings1'] for the object Name pizza1Toppings1
+12/14/2021 07:14:26 INFO Selecting option Diced Mango from select dropdown Topping1 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings1']
+12/14/2021 07:14:26 INFO found the Object value as pizza1Toppings2   xpath     "//div[@id='pizza1']//select[@class='toppings2']" for pizza1Toppings2
+12/14/2021 07:14:26 INFO pizza1Toppings2 xpath "//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 07:14:26 INFO pizza1Toppings2##xpath##"//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 07:14:26 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings2'] for the object Name pizza1Toppings2
+12/14/2021 07:14:26 INFO Selecting option Extra cheese from select dropdown Topping2 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings2']
+12/14/2021 07:14:26 INFO found the Object value as placeOrderButton  ID        "placeOrder" for placeOrderButton
+12/14/2021 07:14:26 INFO placeOrderButton ID "placeOrder"
+12/14/2021 07:14:26 INFO placeOrderButton##ID##"placeOrder"
+12/14/2021 07:14:26 INFO Object found as By.id: placeOrder for the object Name placeOrderButton
+12/14/2021 07:14:26 INFO Clicking on element Place Order Button with locator By.id: placeOrder
+12/14/2021 07:14:27 INFO found the Object value as dialog            ID        "dialog" for dialog
+12/14/2021 07:14:27 INFO dialog ID "dialog"
+12/14/2021 07:14:27 INFO dialog##ID##"dialog"
+12/14/2021 07:14:27 INFO Object found as By.id: dialog for the object Name dialog
+12/14/2021 07:14:27 INFO found the Object value as dialogText        xpath     "//div[@id='dialog']/p"           for dialogText
+12/14/2021 07:14:27 INFO dialogText xpath "//div[@id='dialog']/p" 
+12/14/2021 07:14:27 INFO dialogText##xpath##"//div[@id='dialog']/p"
+12/14/2021 07:14:27 INFO Object found as By.xpath: //div[@id='dialog']/p for the object Name dialogText
+12/14/2021 07:14:27 INFO Getting text fromDialog Text with locator By.xpath: //div[@id='dialog']/p
+12/14/2021 07:14:27 INFO text Missing name
+Missing phone number get retrived from By.xpath: //div[@id='dialog']/p
+12/14/2021 07:14:27 INFO ###validating of error message on without providing details for pickup informations ends###
+12/14/2021 07:15:32 INFO ###validating of error message on without providing details for pickup informations begins###
+12/14/2021 07:15:32 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 07:15:32 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 07:15:32 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 07:15:32 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 07:15:32 INFO Selecting option 4 from select dropdown Pizza1 with locator By.id: pizza1Pizza
+12/14/2021 07:15:32 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 07:15:32 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 07:15:32 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 07:15:32 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings1'] for the object Name pizza1Toppings1
+12/14/2021 07:15:32 INFO Selecting option Diced Mango from select dropdown Topping1 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings1']
+12/14/2021 07:15:32 INFO found the Object value as pizza1Toppings2   xpath     "//div[@id='pizza1']//select[@class='toppings2']" for pizza1Toppings2
+12/14/2021 07:15:32 INFO pizza1Toppings2 xpath "//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 07:15:32 INFO pizza1Toppings2##xpath##"//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 07:15:32 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings2'] for the object Name pizza1Toppings2
+12/14/2021 07:15:32 INFO Selecting option Extra cheese from select dropdown Topping2 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings2']
+12/14/2021 07:15:32 INFO found the Object value as placeOrderButton  ID        "placeOrder" for placeOrderButton
+12/14/2021 07:15:32 INFO placeOrderButton ID "placeOrder"
+12/14/2021 07:15:32 INFO placeOrderButton##ID##"placeOrder"
+12/14/2021 07:15:32 INFO Object found as By.id: placeOrder for the object Name placeOrderButton
+12/14/2021 07:15:32 INFO Clicking on element Place Order Button with locator By.id: placeOrder
+12/14/2021 07:15:33 INFO found the Object value as dialog            ID        "dialog" for dialog
+12/14/2021 07:15:33 INFO dialog ID "dialog"
+12/14/2021 07:15:33 INFO dialog##ID##"dialog"
+12/14/2021 07:15:33 INFO Object found as By.id: dialog for the object Name dialog
+12/14/2021 07:15:33 INFO found the Object value as dialogText        xpath     "//div[@id='dialog']/p"           for dialogText
+12/14/2021 07:15:33 INFO dialogText xpath "//div[@id='dialog']/p" 
+12/14/2021 07:15:33 INFO dialogText##xpath##"//div[@id='dialog']/p"
+12/14/2021 07:15:33 INFO Object found as By.xpath: //div[@id='dialog']/p for the object Name dialogText
+12/14/2021 07:15:33 INFO Getting text fromDialog Text with locator By.xpath: //div[@id='dialog']/p
+12/14/2021 07:15:33 INFO text Missing name
+Missing phone number get retrived from By.xpath: //div[@id='dialog']/p
+12/14/2021 07:15:33 INFO ###validating of error message on without providing details for pickup informations ends###

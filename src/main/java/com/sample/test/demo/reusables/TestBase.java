@@ -11,7 +11,7 @@ import org.testng.annotations.BeforeClass;
 
 public class TestBase {
 
-    private Configuration config;
+    protected Configuration config;
     protected WebDriver driver;
     protected String url;
     protected ObjectHandler obh;

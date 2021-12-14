@@ -17,6 +17,6 @@ placeOrderButton  ID        "placeOrder"
 resetButton       ID        "reset"
 
 dialog            ID        "dialog"
-dialogText        xpath     "//div[@id='dialog']/p")          
+dialogText        xpath     "//div[@id='dialog']/p"          
 
 

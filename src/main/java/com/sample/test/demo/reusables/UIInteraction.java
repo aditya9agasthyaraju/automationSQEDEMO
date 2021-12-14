@@ -12,6 +12,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.Assert;
 
 public class UIInteraction {
 
@@ -48,8 +49,9 @@ public class UIInteraction {
 	 * @param {By}     locator : locator for select dropdown
 	 * @param {String} dropdownName : select dropdown name
 	 * @param {String} option : which option to select
+	 * @throws Exception
 	 */
-	public void selectDropdownByText(By locator, String dropdownName, String option) {
+	public void selectDropdownByText(By locator, String dropdownName, String option) throws Exception {
 		logger.info(
 				"Selecting option " + option + " from select dropdown " + dropdownName + " with locator " + locator);
 		try {
@@ -57,9 +59,11 @@ public class UIInteraction {
 			Select select = new Select(wb);
 			select.selectByVisibleText(option);
 		} catch (Exception e) {
+
 			e.printStackTrace();
 			logger.info("error occured while selecting option " + option + " fro select dropdown " + dropdownName
 					+ " due to " + e.getMessage());
+			throw new Exception(e.getMessage());
 		}
 	}
 
@@ -68,8 +72,9 @@ public class UIInteraction {
 	 * @param {By}     locator : locator for select dropdown
 	 * @param {String} dropdownName : select dropdown name
 	 * @param {int}    option : which option to select
+	 * @throws Exception
 	 */
-	public void selectDropdownByIndex(By locator, String dropdownName, int index) {
+	public void selectDropdownByIndex(By locator, String dropdownName, int index) throws Exception {
 		logger.info("Selecting option " + index + " from select dropdown " + dropdownName + " with locator " + locator);
 		try {
 			WebElement wb = element(locator);
@@ -79,6 +84,7 @@ public class UIInteraction {
 			e.printStackTrace();
 			logger.info("error occured while selecting option " + index + " fro select dropdown " + dropdownName
 					+ " due to " + e.getMessage());
+			throw new Exception(e.getMessage());
 		}
 	}
 
@@ -87,8 +93,9 @@ public class UIInteraction {
 	 * @param {By}     locator : locator for select dropdown
 	 * @param {String} dropdownName : select dropdown name
 	 * @param {String} value : which value to select
+	 * @throws Exception
 	 */
-	public void selectDropdownByValue(By locator, String dropdownName, String value) {
+	public void selectDropdownByValue(By locator, String dropdownName, String value) throws Exception {
 		logger.info("Selecting option " + value + " from select dropdown " + dropdownName + " with locator " + locator);
 		try {
 			WebElement wb = element(locator);
@@ -98,6 +105,39 @@ public class UIInteraction {
 			e.printStackTrace();
 			logger.info("error occured while selecting option " + value + " fro select dropdown " + dropdownName
 					+ " due to " + e.getMessage());
+			throw new Exception(e.getMessage());
+		}
+	}
+
+	/**
+	 * @description :this function will check the checkbox
+	 * @param {By}      locator : locator for select dropdown
+	 * @param {String}  elementName : element name
+	 * @param {boolean} checked : which value to select
+	 * @throws Exception
+	 */
+	public void check(By locator, String elementName, boolean checked) throws Exception {
+		logger.info("Checking the " + elementName + "with locator " + locator + " as " + checked);
+		try {
+			WebElement wb = element(locator);
+			if (checked) {
+				if (wb.isSelected()) {
+					logger.info(elementName + " option is already checked");
+				} else {
+					wb.click();
+				}
+			} else {
+				if (wb.isSelected()) {
+					logger.info(elementName + " option is already in not being checked state");
+				} else {
+					wb.click();
+				}
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+			logger.info("error occured whle Checking the " + elementName + "with locator " + locator + " as " + checked
+					+ " due to " + e.getMessage());
+			throw new Exception(e.getMessage());
 		}
 	}
 
@@ -106,8 +146,9 @@ public class UIInteraction {
 	 * @param {By}     locator : locator for Input Textbox
 	 * @param {String} InputBoxName : Input Text box name
 	 * @param {String} text : which value to select
+	 * @throws Exception
 	 */
-	public void enterText(By locator, String InputBoxName, String text) {
+	public void enterText(By locator, String InputBoxName, String text) throws Exception {
 		logger.info("Entering text  " + text + " in unput text box " + InputBoxName + " with locator " + locator);
 		try {
 			WebElement wb = element(locator);
@@ -116,6 +157,7 @@ public class UIInteraction {
 			e.printStackTrace();
 			logger.info("error occured while Entering text  " + text + " in unput text box " + InputBoxName
 					+ " with locator " + locator + " due to " + e.getMessage());
+			throw new Exception(e.getMessage());
 		}
 	}
 
@@ -124,8 +166,9 @@ public class UIInteraction {
 	 * @param {By}     locator : locator for Input Textbox
 	 * @param {String} elementName :element Name
 	 * @return : String
+	 * @throws Exception
 	 */
-	public String getText(By locator, String elementName) {
+	public String getText(By locator, String elementName) throws Exception {
 		String text = null;
 		logger.info("Getting text from" + elementName + " with locator " + locator);
 		try {
@@ -136,6 +179,7 @@ public class UIInteraction {
 			e.printStackTrace();
 			logger.info("error occured while Getting text from" + elementName + " with locator " + locator + " due to "
 					+ e.getMessage());
+			throw new Exception(e.getMessage());
 		}
 		return text;
 	}
@@ -146,8 +190,9 @@ public class UIInteraction {
 	 * @param {String} elementName :element Name
 	 * @param {String} attribute :attribute Name
 	 * @return : String
+	 * @throws Exception
 	 */
-	public String getValue(By locator, String elementName, String attribute) {
+	public String getValue(By locator, String elementName, String attribute) throws Exception {
 		String value = null;
 		logger.info("Getting attribute " + attribute + " from" + elementName + " with locator " + locator);
 		try {
@@ -158,6 +203,7 @@ public class UIInteraction {
 			e.printStackTrace();
 			logger.info("error occured while Getting text from" + elementName + " with locator " + locator + " due to "
 					+ e.getMessage());
+			throw new Exception(e.getMessage());
 		}
 		return value;
 	}
@@ -167,8 +213,9 @@ public class UIInteraction {
 	 *              provided
 	 * @param {By}     locator : locator for clickable element
 	 * @param {String} elementName : elementName
+	 * @throws Exception
 	 */
-	public void click(By locator, String elementName) {
+	public void click(By locator, String elementName) throws Exception {
 		logger.info("Clicking on element " + elementName + " with locator " + locator);
 		try {
 			WebElement wb = element(locator);
@@ -178,10 +225,11 @@ public class UIInteraction {
 			e.printStackTrace();
 			logger.info("error occured while Clicking on element " + elementName + " with locator " + locator
 					+ " due to " + e.getMessage());
+			throw new Exception(e.getMessage());
 		}
 	}
 
-	public void takeSnapShot( String fileName) throws Exception {
+	public void takeSnapShot(String fileName) throws Exception {
 		String filePath = System.getProperty("user.dir") + "/screenshot/" + fileName + ".png";
 		// Convert web driver object to TakeScreenshot
 		TakesScreenshot scrShot = ((TakesScreenshot) driver);

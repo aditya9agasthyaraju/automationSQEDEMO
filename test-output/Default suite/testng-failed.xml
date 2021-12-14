@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.sample.test.demo.tests.PizzaOrderCostTest">
+      <class name="com.sample.test.demo.tests.PizzaPlaceOrderWithoutDetailsTest">
         <methods>
           <include name="init"/>
           <include name="tearDown"/>
-          <include name="verifyPizzaOrderCostTest"/>
+          <include name="verifyErrorMsgOnInvalidDetails"/>
         </methods>
-      </class> <!-- com.sample.test.demo.tests.PizzaOrderCostTest -->
+      </class> <!-- com.sample.test.demo.tests.PizzaPlaceOrderWithoutDetailsTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

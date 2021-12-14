@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-14T11:38:28Z" name="Default suite" finished-at="2021-12-14T11:38:33Z" duration-ms="5191">
+    <groups>
+    </groups>
+    <test started-at="2021-12-14T11:38:28Z" name="Default test" finished-at="2021-12-14T11:38:33Z" duration-ms="5191">
+      <class name="com.sample.test.demo.tests.PizzaOrderCostTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.sample.test.demo.tests.PizzaOrderCostTest@7393222f]" started-at="2021-12-14T11:38:28Z" name="init" finished-at="2021-12-14T11:38:32Z" duration-ms="3590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="verifyPizzaOrderCostTest()[pri:0, instance:com.sample.test.demo.tests.PizzaOrderCostTest@7393222f]" started-at="2021-12-14T11:38:32Z" name="verifyPizzaOrderCostTest" description="verify whether cost of the pizza is getting updated for the selected pizza" finished-at="2021-12-14T11:38:33Z" duration-ms="830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPizzaOrderCostTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sample.test.demo.tests.PizzaOrderCostTest@7393222f]" started-at="2021-12-14T11:38:33Z" name="tearDown" finished-at="2021-12-14T11:38:33Z" duration-ms="744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sample.test.demo.tests.PizzaOrderCostTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,404 @@
+12/14/2021 05:10:40 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 05:10:40 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 05:10:40 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 05:10:40 INFO Object found as By.id: "pizza1Pizza" for the object Name pizza1
+12/14/2021 05:45:19 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 05:45:19 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 05:45:19 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 05:45:19 INFO Object found as By.id: "pizza1Pizza" for the object Name pizza1
+12/14/2021 05:45:19 INFO Selecting option Large 10 Slices - no toppings from select dropdown Pizza1 with locator By.id: "pizza1Pizza"
+12/14/2021 05:45:49 INFO error occured while selecting option Large 10 Slices - no toppings fro select dropdown Pizza1 due to Expected condition failed: waiting for visibility of element located by By.id: "pizza1Pizza" (tried for 30 second(s) with 500 milliseconds interval)
+12/14/2021 05:45:49 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 05:45:49 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 05:45:49 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 05:45:49 ERROR error occured while fetching the page objectNo enum constant com.sample.test.demo.constants.Identifiers.xpath
+12/14/2021 05:45:49 INFO No Object found for pizza1Toppings1
+12/14/2021 05:45:49 INFO Selecting option Diced Mango from select dropdown Topping1 with locator null
+12/14/2021 05:45:49 INFO error occured while selecting option Diced Mango fro select dropdown Topping1 due to Cannot invoke "org.openqa.selenium.By.findElement(org.openqa.selenium.SearchContext)" because "by" is null
+12/14/2021 05:45:49 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 05:45:49 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 05:45:49 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 05:45:49 ERROR error occured while fetching the page objectNo enum constant com.sample.test.demo.constants.Identifiers.xpath
+12/14/2021 05:45:49 INFO No Object found for pizza1Toppings1
+12/14/2021 05:45:49 INFO Selecting option Extra cheese from select dropdown Topping2 with locator null
+12/14/2021 05:45:49 INFO error occured while selecting option Extra cheese fro select dropdown Topping2 due to Cannot invoke "org.openqa.selenium.By.findElement(org.openqa.selenium.SearchContext)" because "by" is null
+12/14/2021 05:45:49 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 05:45:49 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 05:45:49 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 05:45:49 INFO Object found as By.id: "pizza1Pizza" for the object Name pizza1
+12/14/2021 05:50:17 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 05:50:17 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 05:50:17 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 05:50:17 INFO Object found as By.id: "pizza1Pizza" for the object Name pizza1
+12/14/2021 05:50:17 INFO Selecting option Large 10 Slices - no toppings 11.75 from select dropdown Pizza1 with locator By.id: "pizza1Pizza"
+12/14/2021 05:50:47 INFO error occured while selecting option Large 10 Slices - no toppings 11.75 fro select dropdown Pizza1 due to Expected condition failed: waiting for visibility of element located by By.id: "pizza1Pizza" (tried for 30 second(s) with 500 milliseconds interval)
+12/14/2021 05:50:47 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 05:50:47 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 05:50:47 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 05:50:47 ERROR error occured while fetching the page objectNo enum constant com.sample.test.demo.constants.Identifiers.xpath
+12/14/2021 05:50:47 INFO No Object found for pizza1Toppings1
+12/14/2021 05:50:47 INFO Selecting option Diced Mango from select dropdown Topping1 with locator null
+12/14/2021 05:50:47 INFO error occured while selecting option Diced Mango fro select dropdown Topping1 due to Cannot invoke "org.openqa.selenium.By.findElement(org.openqa.selenium.SearchContext)" because "by" is null
+12/14/2021 05:50:47 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 05:50:47 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 05:50:47 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 05:50:47 ERROR error occured while fetching the page objectNo enum constant com.sample.test.demo.constants.Identifiers.xpath
+12/14/2021 05:50:47 INFO No Object found for pizza1Toppings1
+12/14/2021 05:50:47 INFO Selecting option Extra cheese from select dropdown Topping2 with locator null
+12/14/2021 05:50:47 INFO error occured while selecting option Extra cheese fro select dropdown Topping2 due to Cannot invoke "org.openqa.selenium.By.findElement(org.openqa.selenium.SearchContext)" because "by" is null
+12/14/2021 05:50:47 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 05:50:47 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 05:50:47 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 05:50:47 INFO Object found as By.id: "pizza1Pizza" for the object Name pizza1
+12/14/2021 05:52:45 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 05:52:45 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 05:52:45 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 05:52:45 INFO Object found as By.id: "pizza1Pizza" for the object Name pizza1
+12/14/2021 05:54:07 INFO Selecting option Large 10 Slices - no toppings $11.75 from select dropdown Pizza1 with locator By.id: "pizza1Pizza"
+12/14/2021 05:57:18 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 05:57:18 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 05:57:18 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 05:57:18 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 05:57:18 INFO Selecting option Large 10 Slices - no toppings $11.75 from select dropdown Pizza1 with locator By.id: pizza1Pizza
+12/14/2021 05:57:48 INFO error occured while selecting option Large 10 Slices - no toppings $11.75 fro select dropdown Pizza1 due to Cannot locate option with value: Large 10 Slices - no toppings $11.75
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8OKUT90', ip: '192.168.1.131', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: driver.version: unknown
+12/14/2021 05:57:48 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 05:57:48 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 05:57:48 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 05:57:48 ERROR error occured while fetching the page objectNo enum constant com.sample.test.demo.constants.Identifiers.xpath
+12/14/2021 05:57:48 INFO No Object found for pizza1Toppings1
+12/14/2021 05:57:48 INFO Selecting option Diced Mango from select dropdown Topping1 with locator null
+12/14/2021 05:57:48 INFO error occured while selecting option Diced Mango fro select dropdown Topping1 due to Cannot invoke "org.openqa.selenium.By.findElement(org.openqa.selenium.SearchContext)" because "by" is null
+12/14/2021 05:57:48 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 05:57:48 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 05:57:48 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 05:57:48 ERROR error occured while fetching the page objectNo enum constant com.sample.test.demo.constants.Identifiers.xpath
+12/14/2021 05:57:48 INFO No Object found for pizza1Toppings1
+12/14/2021 05:57:48 INFO Selecting option Extra cheese from select dropdown Topping2 with locator null
+12/14/2021 05:57:48 INFO error occured while selecting option Extra cheese fro select dropdown Topping2 due to Cannot invoke "org.openqa.selenium.By.findElement(org.openqa.selenium.SearchContext)" because "by" is null
+12/14/2021 05:57:48 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 05:57:48 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 05:57:48 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 05:57:48 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 06:01:22 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 06:01:22 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 06:01:22 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 06:01:22 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 06:01:22 INFO Selecting option 3 from select dropdown Pizza1 with locator By.id: pizza1Pizza
+12/14/2021 06:01:22 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 06:01:22 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:01:22 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:01:22 ERROR error occured while fetching the page objectNo enum constant com.sample.test.demo.constants.Identifiers.xpath
+12/14/2021 06:01:22 INFO No Object found for pizza1Toppings1
+12/14/2021 06:01:22 INFO Selecting option Diced Mango from select dropdown Topping1 with locator null
+12/14/2021 06:01:22 INFO error occured while selecting option Diced Mango fro select dropdown Topping1 due to Cannot invoke "org.openqa.selenium.By.findElement(org.openqa.selenium.SearchContext)" because "by" is null
+12/14/2021 06:01:22 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 06:01:22 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:01:22 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:01:22 ERROR error occured while fetching the page objectNo enum constant com.sample.test.demo.constants.Identifiers.xpath
+12/14/2021 06:01:22 INFO No Object found for pizza1Toppings1
+12/14/2021 06:01:22 INFO Selecting option Extra cheese from select dropdown Topping2 with locator null
+12/14/2021 06:01:22 INFO error occured while selecting option Extra cheese fro select dropdown Topping2 due to Cannot invoke "org.openqa.selenium.By.findElement(org.openqa.selenium.SearchContext)" because "by" is null
+12/14/2021 06:01:22 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 06:01:22 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 06:01:22 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 06:01:22 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 06:03:10 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 06:03:10 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 06:03:10 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 06:03:10 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 06:03:10 INFO Selecting option 3 from select dropdown Pizza1 with locator By.id: pizza1Pizza
+12/14/2021 06:03:10 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 06:03:10 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:03:10 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:03:10 ERROR error occured while fetching the page objectNo enum constant com.sample.test.demo.constants.Identifiers.xpath
+12/14/2021 06:03:10 INFO No Object found for pizza1Toppings1
+12/14/2021 06:03:10 INFO Selecting option Diced Mango from select dropdown Topping1 with locator null
+12/14/2021 06:03:10 INFO error occured while selecting option Diced Mango fro select dropdown Topping1 due to Cannot invoke "org.openqa.selenium.By.findElement(org.openqa.selenium.SearchContext)" because "by" is null
+12/14/2021 06:03:10 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 06:03:10 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:03:10 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:03:10 ERROR error occured while fetching the page objectNo enum constant com.sample.test.demo.constants.Identifiers.xpath
+12/14/2021 06:03:10 INFO No Object found for pizza1Toppings1
+12/14/2021 06:03:10 INFO Selecting option Extra cheese from select dropdown Topping2 with locator null
+12/14/2021 06:03:10 INFO error occured while selecting option Extra cheese fro select dropdown Topping2 due to Cannot invoke "org.openqa.selenium.By.findElement(org.openqa.selenium.SearchContext)" because "by" is null
+12/14/2021 06:03:10 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 06:03:10 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 06:03:10 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 06:03:10 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 06:05:00 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 06:05:00 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 06:05:14 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 06:06:23 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 06:06:27 INFO Selecting option 3 from select dropdown Pizza1 with locator By.id: pizza1Pizza
+12/14/2021 06:06:31 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 06:06:31 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:07:01 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:07:57 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 06:07:57 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:08:01 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:11:24 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 06:11:24 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 06:11:24 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 06:11:24 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 06:11:24 INFO Selecting option 3 from select dropdown Pizza1 with locator By.id: pizza1Pizza
+12/14/2021 06:11:24 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 06:11:24 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:11:24 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:11:24 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings1'] for the object Name pizza1Toppings1
+12/14/2021 06:11:24 INFO Selecting option Diced Mango from select dropdown Topping1 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings1']
+12/14/2021 06:11:24 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 06:11:24 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:11:24 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:11:24 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings1'] for the object Name pizza1Toppings1
+12/14/2021 06:11:24 INFO Selecting option Extra cheese from select dropdown Topping2 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings1']
+12/14/2021 06:11:25 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 06:11:25 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 06:11:25 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 06:11:25 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 06:12:16 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 06:12:16 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 06:12:16 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 06:12:16 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 06:12:16 INFO Selecting option 3 from select dropdown Pizza1 with locator By.id: pizza1Pizza
+12/14/2021 06:12:16 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 06:12:16 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:12:16 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:12:16 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings1'] for the object Name pizza1Toppings1
+12/14/2021 06:12:16 INFO Selecting option Diced Mango from select dropdown Topping1 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings1']
+12/14/2021 06:12:16 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 06:12:16 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:12:16 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:12:16 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings1'] for the object Name pizza1Toppings1
+12/14/2021 06:12:16 INFO Selecting option Extra cheese from select dropdown Topping2 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings1']
+12/14/2021 06:12:16 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 06:12:16 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 06:12:16 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 06:12:16 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 06:13:07 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 06:13:07 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 06:13:07 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 06:13:07 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 06:13:07 INFO Selecting option 3 from select dropdown Pizza1 with locator By.id: pizza1Pizza
+12/14/2021 06:13:07 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 06:13:07 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:13:07 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:13:07 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings1'] for the object Name pizza1Toppings1
+12/14/2021 06:13:07 INFO Selecting option Diced Mango from select dropdown Topping1 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings1']
+12/14/2021 06:13:07 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 06:13:07 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:13:07 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:13:07 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings1'] for the object Name pizza1Toppings1
+12/14/2021 06:13:07 INFO Selecting option Extra cheese from select dropdown Topping2 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings1']
+12/14/2021 06:13:46 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 06:13:46 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 06:13:46 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 06:13:46 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 06:13:46 INFO Selecting option 3 from select dropdown Pizza1 with locator By.id: pizza1Pizza
+12/14/2021 06:13:46 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 06:13:46 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:13:46 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:13:46 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings1'] for the object Name pizza1Toppings1
+12/14/2021 06:13:46 INFO Selecting option Diced Mango from select dropdown Topping1 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings1']
+12/14/2021 06:13:47 ERROR error occured while fetching the page objectCannot invoke "String.replaceAll(String, String)" because "text" is null
+12/14/2021 06:13:47 INFO No Object found for pizza1Toppings2
+12/14/2021 06:13:47 INFO Selecting option Extra cheese from select dropdown Topping2 with locator null
+12/14/2021 06:13:47 INFO error occured while selecting option Extra cheese fro select dropdown Topping2 due to Cannot invoke "org.openqa.selenium.By.findElement(org.openqa.selenium.SearchContext)" because "by" is null
+12/14/2021 06:15:26 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 06:15:26 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 06:15:26 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 06:15:26 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 06:15:26 INFO Selecting option 3 from select dropdown Pizza1 with locator By.id: pizza1Pizza
+12/14/2021 06:15:26 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 06:15:26 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:15:26 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:15:26 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings1'] for the object Name pizza1Toppings1
+12/14/2021 06:15:26 INFO Selecting option Diced Mango from select dropdown Topping1 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings1']
+12/14/2021 06:15:26 INFO found the Object value as pizza1Toppings2   xpath     "//div[@id='pizza1']//select[@class='toppings2']" for pizza1Toppings2
+12/14/2021 06:15:26 INFO pizza1Toppings2 xpath "//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 06:15:26 INFO pizza1Toppings2##xpath##"//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 06:15:26 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings2'] for the object Name pizza1Toppings2
+12/14/2021 06:15:26 INFO Selecting option Extra cheese from select dropdown Topping2 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings2']
+12/14/2021 06:17:04 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 06:17:04 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 06:17:04 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 06:17:04 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 06:17:04 INFO Selecting option 3 from select dropdown Pizza1 with locator By.id: pizza1Pizza
+12/14/2021 06:17:04 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 06:17:04 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:17:04 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:17:04 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings1'] for the object Name pizza1Toppings1
+12/14/2021 06:17:04 INFO Selecting option Diced Mango from select dropdown Topping1 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings1']
+12/14/2021 06:17:04 INFO found the Object value as pizza1Toppings2   xpath     "//div[@id='pizza1']//select[@class='toppings2']" for pizza1Toppings2
+12/14/2021 06:17:04 INFO pizza1Toppings2 xpath "//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 06:17:04 INFO pizza1Toppings2##xpath##"//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 06:17:04 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings2'] for the object Name pizza1Toppings2
+12/14/2021 06:17:04 INFO Selecting option Extra cheese from select dropdown Topping2 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings2']
+12/14/2021 06:17:05 INFO found the Object value as pizza1Quantity    ID        "pizza1Qty" for pizza1Quantity
+12/14/2021 06:17:05 INFO pizza1Quantity ID "pizza1Qty"
+12/14/2021 06:17:05 INFO pizza1Quantity##ID##"pizza1Qty"
+12/14/2021 06:17:05 INFO Object found as By.id: pizza1Qty for the object Name pizza1Quantity
+12/14/2021 06:17:05 INFO Entering text  1 in unput text box Quantity Textbox with locator By.id: pizza1Qty
+12/14/2021 06:30:11 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 06:30:11 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 06:30:11 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 06:30:11 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 06:30:11 INFO Selecting option 3 from select dropdown Pizza1 with locator By.id: pizza1Pizza
+12/14/2021 06:30:11 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 06:30:11 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:30:11 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:30:11 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings1'] for the object Name pizza1Toppings1
+12/14/2021 06:30:11 INFO Selecting option Diced Mango from select dropdown Topping1 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings1']
+12/14/2021 06:30:11 INFO found the Object value as pizza1Toppings2   xpath     "//div[@id='pizza1']//select[@class='toppings2']" for pizza1Toppings2
+12/14/2021 06:30:11 INFO pizza1Toppings2 xpath "//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 06:30:11 INFO pizza1Toppings2##xpath##"//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 06:30:11 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings2'] for the object Name pizza1Toppings2
+12/14/2021 06:30:11 INFO Selecting option Extra cheese from select dropdown Topping2 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings2']
+12/14/2021 06:30:12 INFO found the Object value as pizza1Quantity    ID        "pizza1Qty" for pizza1Quantity
+12/14/2021 06:30:12 INFO pizza1Quantity ID "pizza1Qty"
+12/14/2021 06:30:12 INFO pizza1Quantity##ID##"pizza1Qty"
+12/14/2021 06:30:12 INFO Object found as By.id: pizza1Qty for the object Name pizza1Quantity
+12/14/2021 06:30:12 INFO Entering text  1 in unput text box Quantity Textbox with locator By.id: pizza1Qty
+12/14/2021 06:30:12 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 06:30:12 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 06:30:12 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 06:30:12 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 06:31:22 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 06:31:22 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 06:31:22 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 06:31:22 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 06:31:22 INFO Selecting option 3 from select dropdown Pizza1 with locator By.id: pizza1Pizza
+12/14/2021 06:31:22 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 06:31:22 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:31:22 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:31:22 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings1'] for the object Name pizza1Toppings1
+12/14/2021 06:31:22 INFO Selecting option Diced Mango from select dropdown Topping1 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings1']
+12/14/2021 06:31:22 INFO found the Object value as pizza1Toppings2   xpath     "//div[@id='pizza1']//select[@class='toppings2']" for pizza1Toppings2
+12/14/2021 06:31:22 INFO pizza1Toppings2 xpath "//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 06:31:22 INFO pizza1Toppings2##xpath##"//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 06:31:22 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings2'] for the object Name pizza1Toppings2
+12/14/2021 06:31:22 INFO Selecting option Extra cheese from select dropdown Topping2 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings2']
+12/14/2021 06:31:23 INFO found the Object value as pizza1Quantity    ID        "pizza1Qty" for pizza1Quantity
+12/14/2021 06:31:23 INFO pizza1Quantity ID "pizza1Qty"
+12/14/2021 06:31:23 INFO pizza1Quantity##ID##"pizza1Qty"
+12/14/2021 06:31:23 INFO Object found as By.id: pizza1Qty for the object Name pizza1Quantity
+12/14/2021 06:31:23 INFO Entering text  1 in unput text box Quantity Textbox with locator By.id: pizza1Qty
+12/14/2021 06:31:23 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 06:31:23 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 06:31:23 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 06:31:23 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 06:34:54 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 06:34:54 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 06:34:54 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 06:34:54 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 06:34:54 INFO Selecting option 3 from select dropdown Pizza1 with locator By.id: pizza1Pizza
+12/14/2021 06:34:54 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 06:34:54 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:34:54 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:34:54 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings1'] for the object Name pizza1Toppings1
+12/14/2021 06:34:54 INFO Selecting option Diced Mango from select dropdown Topping1 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings1']
+12/14/2021 06:34:54 INFO found the Object value as pizza1Toppings2   xpath     "//div[@id='pizza1']//select[@class='toppings2']" for pizza1Toppings2
+12/14/2021 06:34:54 INFO pizza1Toppings2 xpath "//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 06:34:54 INFO pizza1Toppings2##xpath##"//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 06:34:54 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings2'] for the object Name pizza1Toppings2
+12/14/2021 06:34:54 INFO Selecting option Extra cheese from select dropdown Topping2 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings2']
+12/14/2021 06:34:55 INFO found the Object value as pizza1Quantity    ID        "pizza1Qty" for pizza1Quantity
+12/14/2021 06:34:55 INFO pizza1Quantity ID "pizza1Qty"
+12/14/2021 06:34:55 INFO pizza1Quantity##ID##"pizza1Qty"
+12/14/2021 06:34:55 INFO Object found as By.id: pizza1Qty for the object Name pizza1Quantity
+12/14/2021 06:34:55 INFO Entering text  1 in unput text box Quantity Textbox with locator By.id: pizza1Qty
+12/14/2021 06:34:55 INFO found the Object value as pizza1Cost        ID        "pizza1Cost" for pizza1Cost
+12/14/2021 06:34:55 INFO pizza1Cost ID "pizza1Cost"
+12/14/2021 06:34:55 INFO pizza1Cost##ID##"pizza1Cost"
+12/14/2021 06:34:55 INFO Object found as By.id: pizza1Cost for the object Name pizza1Cost
+12/14/2021 06:34:55 INFO Getting attribute value fromCost Textbox with locator By.id: pizza1Cost
+12/14/2021 06:34:55 INFO text 0 get retrived from By.id: pizza1Cost
+12/14/2021 06:35:40 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 06:35:40 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 06:35:40 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 06:35:40 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 06:35:40 INFO Selecting option 3 from select dropdown Pizza1 with locator By.id: pizza1Pizza
+12/14/2021 06:35:40 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 06:35:40 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:35:40 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:35:40 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings1'] for the object Name pizza1Toppings1
+12/14/2021 06:35:40 INFO Selecting option Diced Mango from select dropdown Topping1 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings1']
+12/14/2021 06:35:41 INFO found the Object value as pizza1Toppings2   xpath     "//div[@id='pizza1']//select[@class='toppings2']" for pizza1Toppings2
+12/14/2021 06:35:41 INFO pizza1Toppings2 xpath "//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 06:35:41 INFO pizza1Toppings2##xpath##"//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 06:35:41 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings2'] for the object Name pizza1Toppings2
+12/14/2021 06:35:41 INFO Selecting option Extra cheese from select dropdown Topping2 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings2']
+12/14/2021 06:35:47 INFO found the Object value as pizza1Quantity    ID        "pizza1Qty" for pizza1Quantity
+12/14/2021 06:35:47 INFO pizza1Quantity ID "pizza1Qty"
+12/14/2021 06:35:47 INFO pizza1Quantity##ID##"pizza1Qty"
+12/14/2021 06:35:47 INFO Object found as By.id: pizza1Qty for the object Name pizza1Quantity
+12/14/2021 06:35:47 INFO Entering text  1 in unput text box Quantity Textbox with locator By.id: pizza1Qty
+12/14/2021 06:37:08 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 06:37:08 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 06:37:08 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 06:37:08 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 06:37:08 INFO Selecting option 3 from select dropdown Pizza1 with locator By.id: pizza1Pizza
+12/14/2021 06:37:08 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 06:37:08 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:37:08 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:37:08 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings1'] for the object Name pizza1Toppings1
+12/14/2021 06:37:08 INFO Selecting option Diced Mango from select dropdown Topping1 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings1']
+12/14/2021 06:37:08 INFO found the Object value as pizza1Toppings2   xpath     "//div[@id='pizza1']//select[@class='toppings2']" for pizza1Toppings2
+12/14/2021 06:37:08 INFO pizza1Toppings2 xpath "//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 06:37:08 INFO pizza1Toppings2##xpath##"//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 06:37:08 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings2'] for the object Name pizza1Toppings2
+12/14/2021 06:37:08 INFO Selecting option Extra cheese from select dropdown Topping2 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings2']
+12/14/2021 06:37:20 INFO found the Object value as pizza1Quantity    ID        "pizza1Qty" for pizza1Quantity
+12/14/2021 06:37:20 INFO pizza1Quantity ID "pizza1Qty"
+12/14/2021 06:37:20 INFO pizza1Quantity##ID##"pizza1Qty"
+12/14/2021 06:37:20 INFO Object found as By.id: pizza1Qty for the object Name pizza1Quantity
+12/14/2021 06:37:20 INFO Entering text  1 in unput text box Quantity Textbox with locator By.id: pizza1Qty
+12/14/2021 06:37:20 INFO found the Object value as pizza1Quantity    ID        "pizza1Qty" for pizza1Quantity
+12/14/2021 06:37:20 INFO pizza1Quantity ID "pizza1Qty"
+12/14/2021 06:37:20 INFO pizza1Quantity##ID##"pizza1Qty"
+12/14/2021 06:37:20 INFO Object found as By.id: pizza1Qty for the object Name pizza1Quantity
+12/14/2021 06:37:20 INFO Entering text  ?? in unput text box Quantity Textbox with locator By.id: pizza1Qty
+12/14/2021 06:37:56 INFO found the Object value as pizza1Cost        ID        "pizza1Cost" for pizza1Cost
+12/14/2021 06:37:56 INFO pizza1Cost ID "pizza1Cost"
+12/14/2021 06:37:56 INFO pizza1Cost##ID##"pizza1Cost"
+12/14/2021 06:37:56 INFO Object found as By.id: pizza1Cost for the object Name pizza1Cost
+12/14/2021 06:37:56 INFO Getting attribute value fromCost Textbox with locator By.id: pizza1Cost
+12/14/2021 06:37:56 INFO text 9.75 get retrived from By.id: pizza1Cost
+12/14/2021 06:38:32 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 06:38:32 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 06:38:32 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 06:38:32 INFO Object found as By.id: pizza1Pizza for the object Name pizza1
+12/14/2021 06:38:32 INFO Selecting option 4 from select dropdown Pizza1 with locator By.id: pizza1Pizza
+12/14/2021 06:38:32 INFO found the Object value as pizza1Toppings1   xpath     "//div[@id='pizza1']//select[@class='toppings1']" for pizza1Toppings1
+12/14/2021 06:38:32 INFO pizza1Toppings1 xpath "//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:38:32 INFO pizza1Toppings1##xpath##"//div[@id='pizza1']//select[@class='toppings1']"
+12/14/2021 06:38:32 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings1'] for the object Name pizza1Toppings1
+12/14/2021 06:38:32 INFO Selecting option Diced Mango from select dropdown Topping1 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings1']
+12/14/2021 06:38:32 INFO found the Object value as pizza1Toppings2   xpath     "//div[@id='pizza1']//select[@class='toppings2']" for pizza1Toppings2
+12/14/2021 06:38:32 INFO pizza1Toppings2 xpath "//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 06:38:32 INFO pizza1Toppings2##xpath##"//div[@id='pizza1']//select[@class='toppings2']"
+12/14/2021 06:38:32 INFO Object found as By.xpath: //div[@id='pizza1']//select[@class='toppings2'] for the object Name pizza1Toppings2
+12/14/2021 06:38:32 INFO Selecting option Extra cheese from select dropdown Topping2 with locator By.xpath: //div[@id='pizza1']//select[@class='toppings2']
+12/14/2021 06:38:32 INFO found the Object value as pizza1Quantity    ID        "pizza1Qty" for pizza1Quantity
+12/14/2021 06:38:32 INFO pizza1Quantity ID "pizza1Qty"
+12/14/2021 06:38:32 INFO pizza1Quantity##ID##"pizza1Qty"
+12/14/2021 06:38:32 INFO Object found as By.id: pizza1Qty for the object Name pizza1Quantity
+12/14/2021 06:38:32 INFO Entering text  1 in unput text box Quantity Textbox with locator By.id: pizza1Qty
+12/14/2021 06:38:32 INFO found the Object value as pizza1Quantity    ID        "pizza1Qty" for pizza1Quantity
+12/14/2021 06:38:32 INFO pizza1Quantity ID "pizza1Qty"
+12/14/2021 06:38:32 INFO pizza1Quantity##ID##"pizza1Qty"
+12/14/2021 06:38:32 INFO Object found as By.id: pizza1Qty for the object Name pizza1Quantity
+12/14/2021 06:38:32 INFO Entering text  ?? in unput text box Quantity Textbox with locator By.id: pizza1Qty
+12/14/2021 06:38:33 INFO found the Object value as pizza1Cost        ID        "pizza1Cost" for pizza1Cost
+12/14/2021 06:38:33 INFO pizza1Cost ID "pizza1Cost"
+12/14/2021 06:38:33 INFO pizza1Cost##ID##"pizza1Cost"
+12/14/2021 06:38:33 INFO Object found as By.id: pizza1Cost for the object Name pizza1Cost
+12/14/2021 06:38:33 INFO Getting attribute value fromCost Textbox with locator By.id: pizza1Cost
+12/14/2021 06:38:33 INFO text 11.75 get retrived from By.id: pizza1Cost
+12/14/2021 06:38:33 INFO found the Object value as pizza1            ID        "pizza1Pizza" for pizza1
+12/14/2021 06:38:33 INFO pizza1 ID "pizza1Pizza"
+12/14/2021 06:38:33 INFO pizza1##ID##"pizza1Pizza"
+12/14/2021 06:38:33 INFO Object found as By.id: pizza1Pizza for the object Name pizza1

@@ -47,5 +47,19 @@ We will be evaluating
 
 #### Test Cases
 
- 1.  
+ 1.  verify the basic UI of the Page(whether all the respective element will get displayed or not)
+ 2.  Verify whether user is able to place the Pizza order with no toppings
+ 3.  Verify whether user is able to place order with one toppings
+ 4.  Verify whether user is able to place with multiple toppings
+ 5.  verify whether correct cost is getting calculated or not on the basis of pizza selected
+ 6.  Verify whether user is getting a proper error message on without providing any details for pickup information
+ 7.  Verify whether is getting proper error message without selecting any payment
+ 8.  verify whether user is getting proper error message on without selecting the quantity
+ 9.  Verify whether user is able to getting error message on not selecting any payment & selecting valid details from pickup information
+
+
+#### Defects
+ 1.  User is able to place order without selecting any quantity 
+ 2. User is able to place order without selecting any payment option
+ 3. Error msg is not getting displayed for without providing phone number in pickup information
 
